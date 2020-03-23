@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd9cc6c7-4647-4987-9ff1-9d6aba193bc6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/projectActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/projectActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/domain/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/domain/Project.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/services/ProjectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/services/ProjectService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/web/ProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/web/ProjectController.java" afterDir="false" />
-    </list>
+    <list default="true" id="bd9cc6c7-4647-4987-9ff1-9d6aba193bc6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +57,7 @@
       <workItem from="1584588160579" duration="20789000" />
       <workItem from="1584777500872" duration="604000" />
       <workItem from="1584862023423" duration="595000" />
+      <workItem from="1584993939941" duration="592000" />
     </task>
     <task id="LOCAL-00001" summary="Error Reducer for CreateProject">
       <created>1584396868512</created>
