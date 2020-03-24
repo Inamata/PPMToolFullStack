@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd9cc6c7-4647-4987-9ff1-9d6aba193bc6" name="Default Changelist" comment="" />
+    <list default="true" id="bd9cc6c7-4647-4987-9ff1-9d6aba193bc6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/domain/Backlog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/domain/Backlog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/domain/ProjectTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/domain/ProjectTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/repositories/ProjectTaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/repositories/ProjectTaskRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/services/ProjectTaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/services/ProjectTaskService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/web/BacklogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/web/BacklogController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +65,7 @@
       <workItem from="1584588160579" duration="20789000" />
       <workItem from="1584777500872" duration="604000" />
       <workItem from="1584862023423" duration="595000" />
-      <workItem from="1584993939941" duration="592000" />
+      <workItem from="1584993939941" duration="2079000" />
     </task>
     <task id="LOCAL-00001" summary="Error Reducer for CreateProject">
       <created>1584396868512</created>
