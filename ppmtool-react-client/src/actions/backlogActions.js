@@ -26,6 +26,9 @@ export const getBacklog = backlog_id => async dispatch => {
             payload: res.data
         })
     }catch (e) {
-        
+        dispatch({
+            type: GET_ERRORS,
+            payload:e.response.data
+        });
     }
 };
