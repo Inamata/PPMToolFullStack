@@ -15,7 +15,7 @@ public class Project {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @NotBlank(message="Project name is required")
+
     private String projectName;
 
     @NotBlank(message="Project Identifier is Required")
