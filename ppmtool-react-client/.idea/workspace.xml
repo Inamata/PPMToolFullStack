@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd9cc6c7-4647-4987-9ff1-9d6aba193bc6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bd9cc6c7-4647-4987-9ff1-9d6aba193bc6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +65,7 @@
       <workItem from="1586033324196" duration="7339000" />
       <workItem from="1586682556472" duration="600000" />
       <workItem from="1586734291037" duration="626000" />
+      <workItem from="1586807469733" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="Error Reducer for CreateProject">
       <created>1584396868512</created>
