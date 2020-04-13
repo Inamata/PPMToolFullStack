@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bd9cc6c7-4647-4987-9ff1-9d6aba193bc6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ppmtool/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ppmtool/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/domain/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ppmtool/src/main/java/com/inamata/ppmtool/domain/Project.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ppmtool/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ppmtool/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +65,8 @@
       <workItem from="1585872152952" duration="4107000" />
       <workItem from="1585947254460" duration="1193000" />
       <workItem from="1586033324196" duration="7339000" />
+      <workItem from="1586682556472" duration="600000" />
+      <workItem from="1586734291037" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="Error Reducer for CreateProject">
       <created>1584396868512</created>
